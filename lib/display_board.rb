@@ -2,7 +2,7 @@
 def display_board
   row= "   |   |   "
   below="-----------"
-  puts " A Tic Tac Toe Board"
+ 
   puts row
   puts below
   puts row
